@@ -33,10 +33,12 @@
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=HabiburRahman1&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 
+
 <br/>
 <p align="left">
+  ### ![Habibur Rahman](https://github-readme-stats.vercel.app/api/top-langs?username=HabiburRahman1&show_icons=true&locale=en&layout=compact)
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HabiburRahman1&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=HabiburRahman1&date_format=M%20j%5B%2C%20Y%5D)]" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=HabiburRahman1&date_format=M%20j%5B%2C%20Y%5D)]" />
 </p>
 <br>
 
