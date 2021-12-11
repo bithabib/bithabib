@@ -36,7 +36,7 @@
 
 <br/>
 <p align="left">
-  ### ![Habibur Rahman](https://github-readme-stats.vercel.app/api/top-langs?username=HabiburRahman1&show_icons=true&locale=en&layout=compact)
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HabiburRahman1&show_icons=true&locale=en&layout=compact"/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HabiburRahman1&show_icons=true&count_private=true&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=HabiburRahman1&date_format=M%20j%5B%2C%20Y%5D)]" />
 </p>
