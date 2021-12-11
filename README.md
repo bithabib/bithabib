@@ -32,6 +32,8 @@
 </p>
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=HabiburRahman1&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br/>
