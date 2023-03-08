@@ -1,5 +1,5 @@
 <!-- <a href="https://AK1.io" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner_dark.png)</a> -->
-<h3>Hi! 👋🤓<br>I'm Habibur Rahman<br>Software Engineer at Daffodil International University</h3>
+<h3>Hi! 👋🤓<br>I'm Habibur Rahman<br>Research Assistant (RA) at the Big Data System Software Laboratory in the Department of AI Convergence Engineering at Gyeongsang National University</h3>
 <h6>I build <a href="https://HabiburRahman1.com/portfolio">websites</a>, create <a href="https://HabiburRahman1.com/blog">content</a>, design <a href="https://HabiburRahman1.com/portfolio">graphics</a>, <a href="https://HabiburRahman1.com/book-a-consultation">strategize</a> and sell <a href="https://HabiburRahman1.com/store">digital products</a>.</h6>
 
 <h3>Things I code with</h3>
