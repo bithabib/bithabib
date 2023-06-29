@@ -43,7 +43,7 @@
 <br>
 <p align="center"> 
   Visitor count<br>
-  <a href="#"><img src="https://profile-counter.glitch.me/mazharulsabbir/count.svg"/></a>
+  <a href="#"><img src="https://profile-counter.glitch.me/bithabib/count.svg"/></a>
 </p>
 
 <h3>Where to find me</h3>
