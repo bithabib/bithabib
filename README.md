@@ -41,7 +41,10 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=bithabib&date_format=M%20j%5B%2C%20Y%5D)]" />
 </p>
 <br>
-
+<p align="center"> 
+  Visitor count<br>
+  <a href="#"><img src="https://profile-counter.glitch.me/mazharulsabbir/count.svg"/></a>
+</p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/bithabib" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/habibur-rahman-61bb9a114" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@habib.usa2014" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
