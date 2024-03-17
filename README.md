@@ -1,6 +1,14 @@
 <!-- <a href="https://AK1.io" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner_dark.png)</a> -->
 <h3>Hi! 👋🤓<br>I'm Habibur Rahman<br>Research Assistant (RA) at the Big Data System Software Laboratory in the Department of AI Convergence Engineering at Gyeongsang National University</h3>
 
+<p>
+  <h3>
+    Check out my portfolio at 
+    <a href="https://qbithabib.com">qbithabib.com</a>
+    for more of my projects!
+  </h3>
+</p>
+
 <br/>
 <br/>
 
