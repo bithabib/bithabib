@@ -70,38 +70,10 @@ class HabiburRahman:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bithabib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bithabib&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bithabib&theme=tokyonight&hide_border=true" />
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bithabib&theme=tokyo-night&hide_border=true&area=true)](https://github.com/bithabib)
 
 </div>
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bithabib&repo=nginx_setup_in_odoo&theme=tokyonight&hide_border=true)](https://github.com/bithabib/nginx_setup_in_odoo)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bithabib&repo=quantum_machine_learning&theme=tokyonight&hide_border=true)](https://github.com/bithabib/quantum_machine_learning)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bithabib&repo=flash_ssd_simulator_web&theme=tokyonight&hide_border=true)](https://github.com/bithabib/flash_ssd_simulator_web)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bithabib&repo=quantum_computer_simulator&theme=tokyonight&hide_border=true)](https://github.com/bithabib/quantum_computer_simulator)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bithabib&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -120,8 +92,6 @@ class HabiburRahman:
 ### 🤝 Let's Connect!
 
 *Open to collaborations in Systems Engineering, SSD Research, and Quantum Computing*
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=bithabib&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 **⭐ [Nominate me for GitHub Stars!](https://stars.github.com/nominate/)**
 
